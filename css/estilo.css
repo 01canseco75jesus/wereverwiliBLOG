@@ -1,6 +1,23 @@
-body{
-    text-align: center;
-    font-family: "arial";
-    color: pink;
-    font-size: 18px;
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.contener{
+    position: absolute;
+    left: 10%;
+    top: 1%;
+    width: 500px;
+    height: 500px;
+    
+}
+.post{
+    position: relative;
+    left: 30%;
+    top: 10%;
+    
+}
+.post p{
+    margin: 5px;
+    
 }
