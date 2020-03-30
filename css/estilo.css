@@ -1,12 +1,13 @@
+@import url('cab.css');
+/* alt + 39 comillas simple */ 
 *{
     padding: 0;
     margin: 0;
 }
 
 .contener{
-    position: absolute;
-    left: 10%;
-    top: 1%;
+    position: relative;
+    top: 150px;
     width: 500px;
     height: 500px;
     
@@ -15,10 +16,12 @@
     position: relative;
     left: 30%;
     top: 10%;
+<<<<<<< HEAD
     font-family: Helvetica;
     
+=======
+>>>>>>> holaaaaa
 }
 .post p{
     margin: 5px;
-    
 }

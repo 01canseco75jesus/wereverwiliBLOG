@@ -1,0 +1,38 @@
+
+.cab1{
+    width: 1000px;
+    height: 300px;
+    position: absolute;
+    top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color:#c19182;
+}
+.cab1 .nave{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    right: 100%;
+    bottom: 100%;
+    
+}
+.cab1 .nave ul{
+    list-style: none;
+}
+.nave ul li{
+    display: flex;
+}
+.nave ul li a{
+    text-decoration: none;
+}
+.nave ul li a:hover{
+
+}
+
+
+.des{
+    font-size: 28px;
+    font-family:Arial;
+    justify-content: center;
+    color: #bdbec6;
+}
