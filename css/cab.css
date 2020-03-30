@@ -14,7 +14,7 @@
     left: 50px;
     right: 100%;
     bottom: 100%;
-    
+    font-family: Arial;
 }
 .cab1 .nave ul{
     list-style: none;
@@ -24,6 +24,8 @@
 }
 .nave ul li a{
     text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
 }
 .nave ul li a:hover{
 
