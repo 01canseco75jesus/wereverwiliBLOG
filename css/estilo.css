@@ -7,21 +7,19 @@
 
 .contener{
     position: relative;
-    top: 150px;
-    width: 500px;
+    top: 250px;
+    width: 700px;
     height: 500px;
     background-color:burlywood;
+
 }
 .post{
     position: relative;
     left: 30%;
     top: 10%;
-<<<<<<< HEAD
     font-family: Helvetica;
-    
-=======
->>>>>>> holaaaaa
 }
+
 .post p{
     margin: 5px;
 }
