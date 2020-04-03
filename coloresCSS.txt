@@ -1,0 +1,19 @@
+Aqui colocaremos los colores y fuentes que vayamos a utlizar en Css:
+'Crimson Text' --Titulos
+'Do Hyeon' --- Titulos
+'Hind' -- Parrafos
+Helvetica -- Parrafos
+
+
+
+#384e60 --- Color de fondo General
+#433c3c -- Color de fondo de Aside
+--------------------------------
+burlywood --- Color de fondo Post
+-------------------------------
+Header:
+#c19182 --- Color de fondo de la Cabecera
+#bdbec6 --- Texto en Cabecera
+#6e5773 --- Titutlo en Cabecera
+---------------------------------
+Footer:
