@@ -1,12 +1,42 @@
 .cab1 .logo{
-   position: relative;
-   right: 10px;
-    top: 10px;
+   position: absolute;
+   right: 1px;
+    top: 99px;
+}
+
+
+.cab1 .logo img{
+    width: 200px;
+    height: 200px;
+}
+
+.cab1 .logoSR{
+   position: absolute;
+   right: 260px;
+    top: 100px;
 }
 
 
 
-.cab1 .logo img{
-    width: 100px;
-    height: 100px;
+.cab1 .logoSR img{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+.des{
+   font-family: 'Crimson Text', serif;
+    font-size: 34px;
+    color: #6e5773;
+    font-weight: bolder;
+}
+.ulCab{
+    font-family: 'Hind', sans-serif;
+     font-size: 24px;
+}
+
+.nave{
+    position: absolute;
 }
