@@ -2,7 +2,7 @@
 .cab1{
     width: 900px;
     height: 300px;
-    position: absolute;
+    position: relative;
     
     left: 15%;
     background-color:#c19182;

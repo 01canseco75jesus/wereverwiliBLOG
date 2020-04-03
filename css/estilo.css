@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Do+Hyeon|Hind&display=swap');
+
 @import url('cab.css');
 
 @import url('cab_lo.css');
@@ -17,7 +19,7 @@ body{
 
 .contener{
     position: relative;
-    top: 350px;
+    top: 50px;
     left: 100px;
     width: 700px;
     height: 300px;

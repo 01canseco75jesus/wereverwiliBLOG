@@ -1,19 +1,12 @@
 .cab1 .logo{
    position: relative;
-   left: 20px;
-    top: 20px;
-    width: 90px;
-    height: 90px;
-    background-color: bisque;
+   right: 10px;
+    top: 10px;
 }
 
-.cab1 .lo{
-   width: 80px;
-    height: 80px;
-    position: relative;
-}
 
-.cab1 .lo img{
-    width: 80px;
-    height: 80px;
+
+.cab1 .logo img{
+    width: 100px;
+    height: 100px;
 }
