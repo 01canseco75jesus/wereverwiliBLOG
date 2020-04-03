@@ -1,9 +1,15 @@
 @import url('cab.css');
+
 @import url('cab_lo.css');
+
+@import url('footer.css');
+
 /* alt + 39 comillas simple */ 
 *{
     padding: 0;
     margin: 0;
+    -webkit- box-sizing: border-box;
+    box-sizing: border-box;
 }
 body{
     background-color: #384e60;
@@ -16,7 +22,7 @@ body{
     width: 700px;
     height: 300px;
     background-color:burlywood;
-   margin: 100px;
+   
 }
 .post{
     position: relative;
