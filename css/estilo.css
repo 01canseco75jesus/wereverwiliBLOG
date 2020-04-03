@@ -1,5 +1,9 @@
 @import url('cab.css');
+
 @import url('cab_lo.css');
+
+@import url('footer.css');
+
 /* alt + 39 comillas simple */ 
 *{
     padding: 0;
