@@ -4,3 +4,4 @@ git y git hub para control de versiones
 de archivos de texto, java y html css y todo 
 lo que venga lol
 freddy help me
+Soy jesus y contribuyo a este proyecto open source
