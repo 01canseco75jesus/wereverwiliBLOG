@@ -24,6 +24,7 @@ body{
     width: 500px;
     height: 350px;
     background-color:burlywood;
+    
    
 }
 .post{
@@ -47,6 +48,7 @@ body{
     background-size: 400px 300px;
     background-repeat: no-repeat;
     background-position: bottom;
+    margin-left: 10px;
     
 }
 .asi1 h1{
