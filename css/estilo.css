@@ -24,17 +24,23 @@ body{
     width: 500px;
     height: 300px;
     background-color:burlywood;
+
    
 }
 .post{
     position: absolute;
-    left: 15%;
+    left: 10%;
     top: 10%;
+    right: 10%;
+    bottom: 10%;
     font-family: Helvetica;
+    background: white;
+    border-top-left-radius: 50px;
 }
 
-.post p{
+.post p, .post h2{
     margin: 5px;
+    padding-left: 20px;
 }
 .asi1{
     position: relative;
@@ -44,3 +50,26 @@ body{
     height: 350px;
     border: solid 1px #000;
 }
+
+
+.boxM{
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
