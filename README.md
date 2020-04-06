@@ -21,6 +21,5 @@
 ------------
 
 [Imagenes sera agregadas en..](https://drive.google.com/drive/u/0/folders/1P-2r12FmyapOxFcZBCSaOxbSdb18eWrF "Imagenes sera agregadas en..")
-## Creador por Mi jaja
-## Ejemplos se venden por separado
-## disponible para todas las edades
+# Creador Wilfrido de Jesús Canseco
+# Agradecimientos a @freddier y @teamplatzi
